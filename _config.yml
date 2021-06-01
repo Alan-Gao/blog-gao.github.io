@@ -1,6 +1,6 @@
 title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+author: Alan-gao
+email: 731607820@qq.com
 copyright: © 2019 GitHub User
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -17,21 +17,8 @@ lin:
 
   # generate social links
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
-    medium:  jekyll
-    rss: rss
-    dribbble: jekyll
-    facebook: jekyll
-    flickr:   jekyll
-    instagram: jekyll
-    linkedin: jekyll
-    pinterest: jekyll
-    youtube_user: jekyll
-    youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    telegram: jekyll
-    googleplus: +jekyll
-    keybase: jekyll
+    QQ: 731607820
+    github:  Alan-gao
 
 theme: lin
 
