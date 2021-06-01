@@ -20,7 +20,7 @@ lin:
     QQ: 731607820
     github:  Alan-gao
 
-theme: lin
+theme: jekyll-theme-cayman
 
 plugins:
  - jekyll-feed
